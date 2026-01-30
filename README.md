@@ -59,6 +59,7 @@ This project analyzes pizza sales data using SQL and Power BI to identify sales 
 
 ## 📷 Dashboard Preview
 # 🍕 Pizza Sales Analysis Dashboard (Power BI)
+https://github.com/saikrishnayadav13/pizza-sales-powerbi-dashboard/blob/9a3156e3d2f3d857bc7d20bdf3c05cabcac5e4a6/Screenshot%202026-01-30%20230813.png
 
 ## 📌 Project Overview
 This project analyzes pizza sales data using SQL and Power BI to identify sales trends, customer behavior, and best/worst performing categories.
@@ -87,8 +88,7 @@ This project analyzes pizza sales data using SQL and Power BI to identify sales 
 - `pizza_queries.sql` → SQL queries used
 - `dashboard.png` → Dashboard preview image
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+
 
 
 
